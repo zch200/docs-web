@@ -1,4 +1,5 @@
 const themeConfig = {
+  lastUpdated: 'Last Updated',
   locales: {
     "/": {
       // 多语言下拉菜单的标题
