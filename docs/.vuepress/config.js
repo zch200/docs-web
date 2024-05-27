@@ -1,5 +1,6 @@
 const themeConfig = {
   lastUpdated: '最近 更新',
+  repo: "Mo-Guo-Yun-Ke/docs-web",
   editLinks: true, // 启用编辑链接
   editLinkText: '编辑',
   locales: {
