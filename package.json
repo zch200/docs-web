@@ -1,0 +1,15 @@
+{
+  "name": "docs-web",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@codeup.aliyun.com:65694d8d61e5541a23aa600d/saas/docs-web.git",
+  "author": "wangxin <18840822260@163.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.9.10"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
