@@ -70,7 +70,7 @@ module.exports = {
   theme: "@vuepress/theme-default",
   themeConfig: themeConfig,
   plugins: ["@vuepress/last-updated"],
-  base: "/docs-web/",
+  base: "/",
   locales: {
     "/": {
       lang: "zh-CN",
