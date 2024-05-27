@@ -1,7 +1,5 @@
 const themeConfig = {
   lastUpdated: '最近 更新',
-  repo: 'Mo-Guo-Yun-Ke/docs-web', // Github仓库地址
-  docsDir: 'docs', // .md文件放在了docs目录下
   editLinks: true, // 启用编辑链接
   editLinkText: '编辑',
   locales: {
@@ -70,6 +68,7 @@ module.exports = {
   theme: "@vuepress/theme-default",
   themeConfig: themeConfig,
   plugins: ["@vuepress/last-updated"],
+  base: "/docs-web/",
   locales: {
     "/": {
       lang: "zh-CN",
