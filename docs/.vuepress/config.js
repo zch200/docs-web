@@ -1,5 +1,9 @@
 const themeConfig = {
-  lastUpdated: 'Last Updated',
+  lastUpdated: '最近 更新',
+  repo: 'Mo-Guo-Yun-Ke/docs-web', // Github仓库地址
+  docsDir: 'docs', // .md文件放在了docs目录下
+  editLinks: true, // 启用编辑链接
+  editLinkText: '编辑',
   locales: {
     "/": {
       // 多语言下拉菜单的标题
