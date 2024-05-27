@@ -4,7 +4,6 @@ const themeConfig = {
   docsDir: 'docs', // .md文件放在了docs目录下
   editLinks: true, // 启用编辑链接
   editLinkText: '编辑',
-  base: '/docs-web/',
   locales: {
     "/": {
       // 多语言下拉菜单的标题
@@ -74,7 +73,7 @@ module.exports = {
   locales: {
     "/": {
       lang: "zh-CN",
-      title: "慧星云课",
+      title: "魔果云课",
     },
     "/en/": {
       lang: "en-US",

@@ -1,8 +1,8 @@
 ---
 home: true
 heroImage: /hero.png
-heroText: 慧星云课
-tagline: 慧星云课 副标题
+heroText: 魔果云课
+tagline: 寓意来自于恶魔果实，希望来平台学习的同学可以获得各种超能力
 actionText: 快速上手 →
 actionLink: /guide/
 features:
